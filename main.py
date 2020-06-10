@@ -12,8 +12,8 @@ from utils.userInfo import User
 
 initial_extensions = [  # The command files that we will load into the bot, located in the 'cogs' folder
                 "cogs.modMail",
-                "cogs.error"
-                # "cogs.help"
+                "cogs.error",
+                "cogs.help"
                     ]
 
 
